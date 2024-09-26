@@ -12,8 +12,7 @@ Here is a quick snapshot of my Projects I have completed here:
 Created a reel about filtering data using Having Clause in SQL.
 
 🏆 SQL Project 
- https://lnkd.in/g3BkPssR
-
+ 
 Conducted a comprehensive analysis of Game and help company to improve their user experience.
  
 🏆Power BI Project 
@@ -25,5 +24,5 @@ Quiz on SQL and Power BI
 Huge shot out to Mentorness and team for such opportunity, which strengthened my analytical skills.
 
 Regards 
-Shivam Sharma
+Abir Saha
  
